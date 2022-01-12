@@ -2,7 +2,7 @@
 const tableData = data;
 
 // Reference the HTML table using d3
-var tbody = dc.select('tbody');
+var tbody = d3.select('tbody');
 
 function buildTable(data) {
     // First, clear out any existing data
@@ -23,3 +23,27 @@ function buildTable(data) {
         );
     });
 }
+function handleClick() {
+    // Grab the datetime value from the filter
+
+    let date = d3.select('#datetime').property('value');
+    let filteredData = tableData;
+
+    // Check to see if a date was entered and filter the datea using that date.
+
+    if (date) {
+        filteredData = filteredData.filter(row => row.datetime === date);
+        }
+    
+    // Rebuild the table using the filtered data
+    // @Note: if no date was entered, then filteredData will
+    // just be the original table data
+    buildTable(filteredData);
+
+}
+
+// Attach an event to listen for the form button
+d3.selectAll('#filter-btn').on('click', handleClick); 
+
+// Build the table when the page loads
+buildTable(tableData);
