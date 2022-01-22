@@ -5,6 +5,7 @@ The purpose of this analysis is to develop a website that explores UFO sightings
 
 ### Site Overview
 Below is an image of the entire site. The site is aesthetically pleasing to view, the overview article is engaging, is device agnostic so that the site resizes to meet the visitor's device, and the data provided encourages visitors to learn more about UFO sightings using the filter fields.
+
 <img src="images/site_overview.png" width="50%" height="20%">
 
 ## Results
@@ -15,6 +16,7 @@ The process for searching the data table on the UFO site is:
 4. To clear the filtered items and restart, click "UFO Sightings" navigation bar at the top of the page.
 
 ### Site after filtering on shape
+
 <img src="images/filtered_circl.png" width="50%" height="20%">
 
 ## Summary
