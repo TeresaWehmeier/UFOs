@@ -12,7 +12,7 @@ Below is an image of the entire site. The site is aesthetically pleasing to view
 The process for searching the data table on the UFO site is:
 1. Click in a filterable box.
 2. Type the item or items to filter on; in the example below we filter on the shape of a circle.
-3. Once all filterable items are defined hit the enter key on the keyboard.
+3. Once all filterable items are defined press the enter key on the keyboard.
 4. To clear the filtered items and restart, click "UFO Sightings" navigation bar at the top of the page.
 
 ### Site after filtering on shape
