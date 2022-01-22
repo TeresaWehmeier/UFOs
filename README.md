@@ -4,7 +4,7 @@
 The purpose of this analysis is to develop a website that explores UFO sightings across the nation. The project consists of loading static data from UFO sightings during January 2010 into a table on the sight, and filtering these reported sightings based on mulitple filters.
 
 ### Site Overview
-Below is an image of the entire site. The site is aesthetically pleasing to view, the overview article is engaging, is device agnostic so that the site resizes to meet the visitor's device, and the data provided encourages visitors to learn more about UFO sightings using the filter fields.
+Below is an image of the entire site. The site is aesthetically pleasing to view and is device agnostic so that the site resizes to meet the visitor's device, the overview article is engaging, and the data provided encourages visitors to learn more about UFO sightings using the filter fields.
 
 <img src="images/site_overview.png" width="50%" height="20%">
 
