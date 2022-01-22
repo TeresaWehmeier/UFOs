@@ -20,7 +20,7 @@ The process for searching the data table on the UFO site is:
 <img src="images/filtered_circl.png" width="50%" height="20%">
 
 ## Summary
-The biggest drawback on the website is how to reset the filtered list to an initial state, where all filtered data in the table is reset. To clear any applied filters, it is necessary to scroll to the top of the website and click the "UFO Sightings" link in the navigation bar, which simply refreshes the webpage. The navigation bar is not intuitive, and is positioned in location that does not demostrate its relationship to the filtered table. Another drawback with the site's design is that there is nothing to suggest to the user that the enter key needs to be pressed to initiate filter selections. Aesthetically, the unfiltered data table displays all data in the table, and scrolls endlessly down the page.
+The biggest drawback on the website is how to reset the filtered list to an initial state, where all filtered data in the table is reset. To clear any applied filters, it is necessary to scroll to the top of the website and click the "UFO Sightings" link in the navigation bar, which simply refreshes the webpage. The navigation bar is not intuitive, and is positioned in location that does not demostrate its relationship to the filtered table. Another drawback with the site's design is that there is nothing to suggest to the user that the enter key needs to be pressed to initiate filter selections. A distraction to this user is that the unfiltered data table displays all data in the table, and scrolls endlessly down the page.
 
 ### Recommended revisions
 After test driving the new website, there are a few recommendations that would make the page more functional and intuitive to a visitor:
